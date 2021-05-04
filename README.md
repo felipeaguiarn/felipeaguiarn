@@ -1,12 +1,3 @@
-# Hi, I’m @felipeaguiarn
-
-- I’m interested in front-end development,
-- I’m currently learning HTML, CSS, Javascript and Bootstrap
-- I’m looking to collaborate on projects to gain experience in frot-end ... and satisfy my curiosity with development and learning,
-- How to reach me  [Linkedin](https://www.linkedin.com/in/felipesanascimento/).
-
-## Thanks for the visit
-
 # Olá, sou o @felipeaguiarn
 
 - Meu principal interesse atualmente é no desenvolvimento front-end,

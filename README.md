@@ -1,11 +1,11 @@
-# Olá, sou o @felipeaguiarn
+ # :speech_balloon: Olá, sou o @felipeaguiarn :octocat:
 
 - Meu principal interesse atualmente é no desenvolvimento front-end,
 - Estou aprendendo HTML, CSS, Javascript and Bootstrap,
 - Estou procurando colaborar e aprender sobre frot-end ... e satisfazer minha curiosidade no desenvolvimento web e aprender com isso,
 - Você pode me encontra no [Linkedin](https://www.linkedin.com/in/felipesanascimento/).
 
-## Obrigado pela visita
+## Obrigado pela visita :smile:
 
 
 ___

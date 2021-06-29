@@ -6,7 +6,7 @@
 
 
 Você pode me visitar em
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesanascimento/)](https://www.linkedin.com/in/felipesanascimento/)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaguiarn/)](https://www.linkedin.com/in/felipeaguiarn/)
 [![Gmail Badge](https://img.shields.io/badge/-felipesaguiarn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipesaguiarn@gmail.com)](mailto:felipesaguiarn@gmail.com)
 
 ## Obrigado pela visita :smile:

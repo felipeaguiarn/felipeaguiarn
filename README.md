@@ -1,12 +1,10 @@
- # :speech_balloon: Olá, sou o Felipe AguiarN:octocat:
+ # :speech_balloon: Olá, sou o Felipe Aguiar:octocat:
 
-- Meu principal interesse atualmente é no desenvolvimento front-end
-- Estou aprendendo **JavaScript, HTML, CSS, Node Js, React JS**
-- Buscando aprender e desenvolver meu conhecimento em front-end
+
 
 
 Você pode me visitar em
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeaguiarn/)](https://www.linkedin.com/in/felipeaguiarn/)
+
 [![Gmail Badge](https://img.shields.io/badge/-felipesaguiarn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipesaguiarn@gmail.com)](mailto:felipesaguiarn@gmail.com)
 
 ## Obrigado pela visita :smile:
